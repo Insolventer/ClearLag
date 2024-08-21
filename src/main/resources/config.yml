@@ -1,6 +1,6 @@
 clearlag:
   remove_entities:
-    - DROPPED_ITEMS
+    - DROPPED_ITEMS # just these values will work
     - MONSTERS
     - PROJECTILES
     - EXPERIENCE_ORBS
