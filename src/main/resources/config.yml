@@ -3,4 +3,6 @@ clearlag:
     - DROPPED_ITEMS
     - MONSTERS
     - PROJECTILES
+    - EXPERIENCE_ORBS
+
   message: "<bold><green>Removed <color:#FF7B00>{count}</color:#FF7B00> entities!</green></bold>"
