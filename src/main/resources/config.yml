@@ -1,5 +1,4 @@
 clearlag:
-  interval: 300 # seconds (5 minutes)
   remove_entities:
     - DROPPED_ITEMS
     - MONSTERS
