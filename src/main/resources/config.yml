@@ -1,0 +1,7 @@
+clearlag:
+  interval: 300 # seconds (5 minutes)
+  remove_entities:
+    - DROPPED_ITEMS
+    - MONSTERS
+    - PROJECTILES
+  message: "<bold><green>Removed <color:#FF7B00>{count}</color:#FF7B00> entities!</green></bold>"

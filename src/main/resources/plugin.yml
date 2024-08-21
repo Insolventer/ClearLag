@@ -1,0 +1,8 @@
+name: ClearLag
+version: '${version}'
+main: me.pashmash.clearlag.ClearLag
+api-version: '1.20'
+commands:
+  clearlag:
+    description: Clear lag
+
